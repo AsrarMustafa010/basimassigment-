@@ -1,13 +1,50 @@
-.mydiv {
+/* .mydiv {
 width: 17vw;
 font-size: 0.8em;
-margin-left: 20em;
+margin-left: 16%;
 margin-top: 2vh;
 }
 .morework{
     left: 44em;
-    top: 60em;
+    top: 65em;
+     height: 52--em;
+    overflow-x: hidden;
 }   
 .myworking{
 top: -20;
+} */
+
+.box{
+    margin-left: 16%;
 }
+.morework{
+    left: 44em;
+    top: 48em;
+    overflow-x:hidden ;
+    height: 48em;
+    
+} 
+.box2{
+    width: 35em;
+    border: 2px solid;
+    justify-content: center;
+    position: absolute;
+    left: 27em;
+  top: 100em;
+}
+/* .red{
+    height: 10em;
+    text-align:start;
+  align-items:start;
+ 
+} */
+ textarea{
+    height: 8em;
+ }
+ .box4{
+   position: absolute;
+   top: 130em;
+   justify-content:space-evenly;
+   
+   display: flex;
+ }
